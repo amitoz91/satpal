@@ -1,3 +1,3 @@
-## New Idea
+## New Demo
 
-I have a new idea today.
+I have a new demo today.
